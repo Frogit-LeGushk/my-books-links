@@ -46,6 +46,9 @@ TOPIC: Linux
 4) https://ru.wikibooks.org/wiki/Vim -> Краткое руководство по vim
 5) http://rus-linux.net/nlib.php?name=/MyLDP/algol/gnu_make/gnu_make_3-79_russian_manual.html -> Инструкция по GNU make
 6) https://elixir.bootlin.com/linux/latest/source/include/linux/ww_mutex.h -> Реализация Wait/Die в Linux Kernel	
+7) https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C -> Ассемблер в Linux для программистов C
+8) http://asm.sourceforge.net/articles/linasm.html -> Using Assembly Language in Linux
+9) https://wasm.in/ -> форум по низкоуровневому программированию
 
 TOPIC: Architecture computer's
 1) https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html -> Intel® 64 and IA-32 Architectures Software Developer Manuals
