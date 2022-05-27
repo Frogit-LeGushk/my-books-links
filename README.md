@@ -13,12 +13,16 @@ TOPIC: Programming on Linux
 TOPIC: Specifications
 1) amd64-abi
 2) multiboot
+3) Filesystem Hierarchy Standard
+4) The OpenGL® Shading Language
+5) Intel® 64 and IA-32 Architectures Software Developer Manuals
 
 TOPIC: English
 1) English grammar in use (blue color)
 
 TOPIC: Programming languages
 1) Brian Kernighan Dennis Ritchie - The C Programming Language
+2) Программирование введение в профессию. Том II низкоуровневое программирование. А.В. Столяров
 
 TOPIC: Gamedev
 1) Game Engine Architecture | Gregory Jason
@@ -27,9 +31,11 @@ TOPIC: OS and Architecture computer's
 1) Operating Systems: Principles and Practice
 2) Таненбаум Э. - Современные операционные системы 
 3) Таненбаум Э. Остин т. - Архитектура компьютера
+4) Столяров А.В. - Введение в операционные системы
 
 TOPIC: Networking
 1) Beej's Guide to Network Programming
+2) 31 days before your ccna exam: a day-by-day review guide for the ccna 200-301
 
 TOPIC: other
 1) 500 Lines or Less
@@ -48,10 +54,10 @@ TOPIC: Linux
 6) https://elixir.bootlin.com/linux/latest/source/include/linux/ww_mutex.h -> Реализация Wait/Die в Linux Kernel	
 7) https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C -> Ассемблер в Linux для программистов C (викиучебник)
 8) http://asm.sourceforge.net/articles/linasm.html -> Using Assembly Language in Linux
+9) https://bootlin.com/doc/training/linux-kernel/linux-kernel-slides.pdf -> Linux Kernel and driver development training
 
 TOPIC: Architecture computer's
-1) https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html -> Intel® 64 and IA-32 Architectures Software Developer Manuals
-2) https://wasm.in/ -> форум по низкоуровневому программированию
+1) https://wasm.in/ -> форум по низкоуровневому программированию
 
 TOPIC: Networking
 1) https://www.youtube.com/playlist?list=PLthfp5exSWEp5OGCCuPGu7Rj-SkTSKMv4 -> Компьютерные сети, Климанов М.М, МФТИ
