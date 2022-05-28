@@ -56,11 +56,13 @@ TOPIC: Linux
 8) http://asm.sourceforge.net/articles/linasm.html -> Using Assembly Language in Linux
 9) https://bootlin.com/doc/training/linux-kernel/linux-kernel-slides.pdf -> Linux Kernel and driver development training
 
-TOPIC: Architecture computer's
+TOPIC: OS and Architecture computer's
 1) https://wasm.in/ -> форум по низкоуровневому программированию
+2) https://www.youtube.com/playlist?list=PLthfp5exSWEryxdV5RF69G_Fii2zI4EG6 -> Основы операционных сетей, Карпов В.Е, МФТИ
 
-TOPIC: Networking
+TOPIC: Networking and Distributed computing
 1) https://www.youtube.com/playlist?list=PLthfp5exSWEp5OGCCuPGu7Rj-SkTSKMv4 -> Компьютерные сети, Климанов М.М, МФТИ
+2) https://www.youtube.com/playlist?list=PLthfp5exSWEq-cJlGLs9BghIHXu_4n8td -> Введение в распараллеливание алгоритмов и программ, Карпов В.Е, МФТИ
 					
 TOPIC: others
 1) https://missing-semester-rus.github.io/2020/security/ -> The missing semester of CS			
