@@ -71,6 +71,7 @@ TOPIC: Networking and Distributed computing
 TOPIC: Mathmatics
 1) https://en.wikibooks.org/wiki/LaTeX/Mathematics -> Wikibook LaTeX for Mathematics
 2) https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2 -> Таблица основных математических символов
+3) https://mathus.ru/math/ -> олимпиадная математика 11 класс - 1 курс
 					
 TOPIC: others
 1) https://missing-semester-rus.github.io/2020/security/ -> The missing semester of CS			
