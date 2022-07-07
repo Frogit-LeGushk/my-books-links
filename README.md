@@ -40,28 +40,26 @@
 3) How to hack computers, basic securiry and penetration testing
 ---------------------------------------------------------------------------------------
 
-/* LINKS */
+# LINKS
 
-TOPIC: Linux
+### TOPIC: Linux
 1) https://ru.wikibooks.org/wiki/Vim -> Краткое руководство по vim
-2) http://rus-linux.net/nlib.php?name=/MyLDP/algol/gnu_make/gnu_make_3-79_russian_manual.html -> Инструкция по GNU make
-3) https://elixir.bootlin.com/linux/latest/source -> source code Linux Kernel (visual repositories)
-4) https://git.kernel.org/ -> other source code Linux Kernel (visual repositories)
-5) https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C -> Ассемблер в Linux для программистов C (викиучебник)
-6) http://asm.sourceforge.net/articles/linasm.html -> Using Assembly Language in Linux
-7) https://bootlin.com/doc/training/linux-kernel/linux-kernel-slides.pdf -> Linux Kernel and driver development training (architecture Kernel)
+2) http://rus-linux.net/nlib.php?name=/MyLDP/algol/gnu_make/gnu_make_3-79_russian_manual.html -> guide on GNU make
+3) https://elixir.bootlin.com/linux/latest/source -> source code Linux Kernel
+4) https://git.kernel.org/ -> list of Linux repositories
+5) https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C -> Ассемблер в Linux для программистов C (wiki-book)
+6) https://bootlin.com/doc/training/linux-kernel/linux-kernel-slides.pdf -> Linux Kernel and driver development training
 
-TOPIC: Networking and Distributed computing
+### TOPIC: Networking
 1) https://www.youtube.com/playlist?list=PLthfp5exSWEp5OGCCuPGu7Rj-SkTSKMv4 -> Компьютерные сети, Климанов М.М, МФТИ
-3) https://linkmeup.gitbook.io/sdsm/ -> сети для самых маленьких
+2) https://linkmeup.gitbook.io/sdsm/ -> Сети для самых маленьких
 
-TOPIC: Mathmatics
+### TOPIC: Mathmatics
 1) https://en.wikibooks.org/wiki/LaTeX/Mathematics -> Wikibook LaTeX for Mathematics
-2) https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2 -> Таблица основных математических символов
-3) https://mathus.ru/math/ -> олимпиадная математика 11 класс - 1 курс
+2) https://mathus.ru/math/ -> Олимпиадная математика 11 класс - 1 курс
 					
-TOPIC: others			
+### TOPIC: others			
 1) https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2 -> All CS in short videos from MIT			
 2) https://www.youtube.com/playlist?list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK -> Introduction in OpegGL
 3) https://habr.com/ru/post/310790/ -> Advanced course OpenGL
-4) https://habr.com/ru/post/101810/ -> Написание собственной OS
+4) https://habr.com/ru/post/101810/ -> Writing your own OS
