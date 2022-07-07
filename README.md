@@ -1,16 +1,16 @@
-/* BOOKS */
+# BOOKS
 
-TOPIC: Algorithms:
+### TOPIC: Algorithms:
 1) Алгоритмы. Построение и анализ | Кормен Томас Х., Лейзерсон Чарльз И.
 2) Скиена С. Алгоритмы. Руководство по разработке.
 
-TOPIC: Programming on Linux
+### TOPIC: Programming on Linux
 1) Майкл К. Джонсон, Эрик В. Троан "Разработка приложений в среде Linux"
 2) Assembly language step by step. Programming with linux
 3) Linux commang line a complete introduction
 4) Bash-скрипты, руководство в 11 частях
 
-TOPIC: Specifications
+### TOPIC: Specifications
 1) amd64-abi (application binary interface)
 2) multiboot
 3) Filesystem Hierarchy Standard (Filesystem Hierarchy Standard,)
@@ -18,23 +18,23 @@ TOPIC: Specifications
 5) Intel® 64 and IA-32 Architectures Software Developer Manuals
 6) POSIX (Portable Operating System Interface)
 
-TOPIC: English
+### TOPIC: English
 1) English grammar in use (blue color)
 
-TOPIC: Programming languages
+### TOPIC: Programming languages
 1) Brian Kernighan Dennis Ritchie - The C Programming Language
 2) Программирование введение в профессию. Том II низкоуровневое программирование. А.В. Столяров (asm + C)
 
-TOPIC: OS and Architecture computer's
+### TOPIC: OS and Architecture computer's
 1) Operating Systems: Principles and Practice
 2) Таненбаум Э. Остин т. - Архитектура компьютера
 3) Столяров А.В. - Введение в операционные системы
 
-TOPIC: Networking
+### TOPIC: Networking
 1) Beej's Guide to Network Programming
 2) 31 days before your ccna exam: a day-by-day review guide for the ccna 200-301
 
-TOPIC: other
+### TOPIC: other
 1) 500 Lines or Less
 2) Hacking the art of exploitation
 3) How to hack computers, basic securiry and penetration testing
